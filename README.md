@@ -4,7 +4,7 @@ Repositório do curso introdutório da linguagem Go
 ## Inicializando o módulo
 
     cd curso-go/
-    go mod init github.com/eminetto/curso-go
+    go mod init github.com/jeysonlr/curso-go
 
 ## Executando
 

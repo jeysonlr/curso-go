@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/eminetto/curso-go/domain"
+	"github.com/jeysonlr/curso-go/domain"
 )
 
 //Churrasco churrasco calculado

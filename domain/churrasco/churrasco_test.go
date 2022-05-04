@@ -3,7 +3,7 @@ package churrasco
 import (
 	"testing"
 
-	"github.com/eminetto/curso-go/domain"
+	"github.com/jeysonlr/curso-go/domain"
 	"github.com/stretchr/testify/assert"
 )
 
